@@ -25,7 +25,7 @@ const container = document.getElementById("root") as HTMLElement;
 const root = createRoot(container!);
 
 root.render(
-  <BrowserRouter>
+  <BrowserRouter basename={process.env.PUBLIC_URL}>
     <ThemeProvider theme={theme}>
       <CssBaseline />
       <Provider store={store}>
