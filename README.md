@@ -1,7 +1,7 @@
 # TO-DO LIST
 **The classic to-do list application.**
 ___
-Demo can be found [here](https://veluat.github.io/task-manager/login)
+Demo can be found [here](https://veluat.github.io/task-manager)
 ___
 A list of tasks helping to manage your activities. With authorization.
 
