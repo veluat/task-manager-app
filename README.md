@@ -1,8 +1,17 @@
-TO-DO LIST
+# TO-DO LIST
+**The classic to-do list application.**
+___
+Demo can be found [here](https://veluat.github.io/task-manager/login)
+___
+A list of tasks helping to manage your activities. With authorization.
 
-Create, edit and delete yours To-do list, manage tasks that can be customized for you.
+![alt to-do list](./src/common/assets/to-do-2.png)
 
-Technologies:
+Create, edit and delete yours to-do lists, manage tasks that can be customized for you.
+
+![alt to-do list](./src/common/assets/to-do-1.png)
+___
+**Technologies:**
 - React
 - Redux Toolkit
 - React-Redux
@@ -12,3 +21,6 @@ Technologies:
 - Axios
 - Formik
 - Material UI
+___
+#### When a task is completed, it is usually crossed off the list. Tasks can be sorted by filters, labeled, edited.
+![alt to-do list](./src/common/assets/to-do.gif)
