@@ -1,9 +1,9 @@
-# TO-DO LIST
-**The classic to-do list application.**
+# :clipboard: TO-DO LIST
+### Classic To-Do List App - An application that provides a list of tasks to help manage your activities. Users can interact with a real server for data exchange, including task management and authorization. The app allows users to create, update, and delete tasks, as well as mark them as complete.
 ___
-**Demo can be found** [here](https://veluat.github.io/task-manager)
+### Demo can be found [here](https://veluat.github.io/task-manager)
 ___
-**Technologies:**
+### Technologies:
 - React
 - Redux Toolkit
 - React-Redux
