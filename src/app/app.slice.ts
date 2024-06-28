@@ -59,7 +59,7 @@ const slice = createSlice({
           state.status = "succeeded";
         }
       )
-      .addDefaultCase((state, action) => {
+      .addDefaultCase((_state, action) => {
         console.log(action);
       });
   },
