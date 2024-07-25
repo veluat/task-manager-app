@@ -51,7 +51,6 @@ export function App() {
 
   return (
     <div className="App">
-      <ErrorSnackBar />
       <AppBar position="static" enableColorOnDark>
         <Toolbar style={{ justifyContent: "space-between" }}>
           <IconButton edge="start" color="inherit" aria-label="menu">
